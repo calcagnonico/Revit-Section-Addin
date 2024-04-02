@@ -1,0 +1,10 @@
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\bin\Release\RevitPlugin.addin
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\bin\Release\RevitPlugin.dll
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\bin\Release\RevitPlugin.pdb
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\obj\Release\RevitPlugin.csproj.AssemblyReference.cache
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\obj\Release\RevitPlugin.SectionForms.resources
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\obj\Release\RevitPlugin.Properties.Resources.resources
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\obj\Release\RevitPlugin.csproj.GenerateResource.cache
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\obj\Release\RevitPlugin.csproj.CoreCompileInputs.cache
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\obj\Release\RevitPlugin.dll
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\ClassLibrary1\obj\Release\RevitPlugin.pdb
