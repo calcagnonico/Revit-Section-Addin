@@ -60,6 +60,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AcomodarSecciones.cs" />
     <Compile Include="Configuracion.cs" />
     <Compile Include="Conversiones.cs" />
     <Compile Include="SectionForms.cs">
@@ -76,6 +77,7 @@
     <Compile Include="Secciones.cs" />
     <Compile Include="ExternalApplication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="RevitPlugin.addin">

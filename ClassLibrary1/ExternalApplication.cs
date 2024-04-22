@@ -28,8 +28,16 @@ namespace RevitPlugin
             string path = Assembly.GetExecutingAssembly().Location;
             PushButtonData button = new PushButtonData("Button 1", "Create Sections", path, "RevitPlugin.Secciones");
             RibbonPanel panel = application.CreateRibbonPanel("Nico", "Commands");
+
+
             PushButton pushButton = panel.AddItem(button) as PushButton;
             pushButton.LargeImage = PngImageSource("RevitPlugin.Icono.png");
+
+            PushButtonData button1 = new PushButtonData("Button 2", "Order Sections", path, "RevitPlugin.AcomodarSecciones");
+            PushButton pushButton1 = panel.AddItem(button1) as PushButton;
+            pushButton1.LargeImage = PngImageSource("RevitPlugin.Icono.png");
+
+
             return Result.Succeeded;
         }
 

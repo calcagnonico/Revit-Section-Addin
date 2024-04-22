@@ -92,6 +92,7 @@ namespace RevitPlugin
                         t.BasisY = up;
                         t.BasisZ = viewdir;
 
+
                         BoundingBoxXYZ sectionBox = new BoundingBoxXYZ();
                         sectionBox.Transform = t;
                         sectionBox.Min = min;
@@ -136,7 +137,6 @@ namespace RevitPlugin
                     return Result.Failed;
                 }
             }
-
         }
     }
 }

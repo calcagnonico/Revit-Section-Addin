@@ -18,3 +18,13 @@ C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\obj\Debug\RevitPlu
 C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\obj\Debug\RevitPlugin.csproj.CoreCompileInputs.cache
 C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\obj\Debug\RevitPlugin.dll
 C:\Dropbox (Personal)\Programacion\GitHub\Revit\ClassLibrary1\obj\Debug\RevitPlugin.pdb
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\bin\Debug\RevitPlugin.addin
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\bin\Debug\RevitPlugin.dll
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\bin\Debug\RevitPlugin.pdb
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\obj\Debug\RevitPlugin.csproj.AssemblyReference.cache
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\obj\Debug\RevitPlugin.SectionForms.resources
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\obj\Debug\RevitPlugin.Properties.Resources.resources
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\obj\Debug\RevitPlugin.csproj.GenerateResource.cache
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\obj\Debug\RevitPlugin.csproj.CoreCompileInputs.cache
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\obj\Debug\RevitPlugin.dll
+C:\Dropbox (Personal)\Programacion\GitHub\Revit\Revit-Section-Addin\ClassLibrary1\obj\Debug\RevitPlugin.pdb
